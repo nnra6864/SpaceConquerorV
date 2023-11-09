@@ -528,7 +528,7 @@ GameObject:
   - component: {fileID: 705044480}
   - component: {fileID: 705044479}
   m_Layer: 0
-  m_Name: Overlay
+  m_Name: Fog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1112,6 +1112,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 4351035778715870264, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351035778715870264, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5190077876185831149, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
       propertyPath: m_Name
       value: Player
@@ -1119,6 +1127,22 @@ PrefabInstance:
     - target: {fileID: 5190077876185831149, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6369505786661270782, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6369505786661270782, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372262893956424274, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372262893956424274, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6583379309085487925, guid: 13e74baff37d74347af96d51f9efabdb, type: 3}
       propertyPath: m_LocalScale.x
