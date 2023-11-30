@@ -8,6 +8,7 @@ TagManager:
   - PlasmaPickup
   - FuelPickup
   - EnemySpawner
+  - Score
   layers:
   - Default
   - TransparentFX
