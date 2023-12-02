@@ -46,12 +46,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SFX","value":{"$content":[{"Key":{"$content":"Shoot","$type":"System.String"},"Value":{"$content":0,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Dash","$type":"System.String"},"Value":{"$content":1,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Pickup","$type":"System.String"},"Value":{"$content":2,"$type":"UnityEngine.Object"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SFX","value":{"$content":[{"Key":{"$content":"Shoot","$type":"System.String"},"Value":{"$content":0,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Dash","$type":"System.String"},"Value":{"$content":1,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Pickup","$type":"System.String"},"Value":{"$content":2,"$type":"UnityEngine.Object"}},{"Key":{"$content":"EnemyDash","$type":"System.String"},"Value":{"$content":3,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Explosion","$type":"System.String"},"Value":{"$content":4,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Hit","$type":"System.String"},"Value":{"$content":5,"$type":"UnityEngine.Object"}},{"Key":{"$content":"ProjectileHit","$type":"System.String"},"Value":{"$content":6,"$type":"UnityEngine.Object"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
       Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 8300000, guid: 0ebe56d98c7c36f46982efddd7fe2ddf, type: 3}
     - {fileID: 8300000, guid: 7b56e9065baea6c45937da0f57fae253, type: 3}
     - {fileID: 8300000, guid: 8730cf50fd140ac43823160d22c60a91, type: 3}
+    - {fileID: 8300000, guid: 61522de311768f949b79628523c4a174, type: 3}
+    - {fileID: 8300000, guid: 665d756d4262db942accfe6cea7e4dba, type: 3}
+    - {fileID: 8300000, guid: c7720aadf40c9164bb2f2c4f60ecbbeb, type: 3}
+    - {fileID: 8300000, guid: 90330c7cc0b520f40ba741ffdb25a3fc, type: 3}
 --- !u!114 &1126918984624171580
 MonoBehaviour:
   m_ObjectHideFlags: 0
