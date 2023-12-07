@@ -981,16 +981,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'ESC - Pause
+  m_text: 'ESC - PAUSE
 
     WASD - MOVE
 
-    LMB - SHOOT
-
     SHIFT - DASH
 
-    MWHEEL
-    - ZOOM'
+    MWHEEL - ZOOM
+
+    LMB/SPACE
+    - SHOOT'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ff017e70b028b3c46b831337cef83958, type: 2}
   m_sharedMaterial: {fileID: -6919096137955090144, guid: ff017e70b028b3c46b831337cef83958, type: 2}
@@ -2129,16 +2129,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'ESC - Pause
+  m_text: 'ESC - PAUSE
 
     WASD - MOVE
 
-    LMB - SHOOT
-
     SHIFT - DASH
 
-    MWHEEL
-    - ZOOM'
+    MWHEEL - ZOOM
+
+    LMB/SPACE
+    - SHOOT'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ff017e70b028b3c46b831337cef83958, type: 2}
   m_sharedMaterial: {fileID: -6919096137955090144, guid: ff017e70b028b3c46b831337cef83958, type: 2}
